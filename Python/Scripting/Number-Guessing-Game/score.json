@@ -1,6 +1,10 @@
 {
-    "game" : [
-        {"score" : "win"},
-        {"score" : "win"}
+    "game": [
+        {
+            "result": "win"
+        },
+        {
+            "result": "loss"
+        }
     ]
 }
